@@ -1,0 +1,32 @@
+TEST CASES:-
+
+For interp1.c -->
+
+1.In this case we have to compute the value of ln 9.2 , given:-
+   
+	ln 9.0=2.1792	 
+   	ln 9.5=2.2513
+	ln 11.0=2.3979
+   
+   Number of elements to be stored in x and y= 3
+   The elements of x = 9.0, 9.5, 11.0
+   The elements of y=  2.1972, 2.2513, 2.3979
+   The number of elements in xp=1
+   The elements of xp=9.2
+	
+   The output, yp= 2.20170
+
+2.In this case we have to compute f(3) give,
+
+	x=2,f(x)=0.5
+	x=2.5,f(x)=0.4
+	x=3.25,f(x)=0.3077
+	x=4,f(x)=0.25
+
+   Number of elements to be stored in x and y=4
+   The elements of x=2, 2.5, 3.25, 4
+   The elements of y=0.5, 0.4, 0.3077, 0.25
+   The number of elements in xp=1
+   The elements of xp=3
+
+   The output, yp=0.375000
